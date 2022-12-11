@@ -46,5 +46,6 @@ This repository contains the resources relating to the IoT part of the 0xAthena 
     - Print text to the i2c display
     - Read the Sensor Data and sprintf it into a global malloc'd string
     - Spawn a task that prints the data on the i2c display
-    - Connect to a WiFi
-    - Spawn a task that posts the data to a server in the network
+    - IF WE HAVE THE TIME:
+        - Connect to a WiFi
+        - Spawn a task that posts the data to a server in the network
