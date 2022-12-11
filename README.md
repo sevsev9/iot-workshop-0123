@@ -6,6 +6,14 @@ This repository contains the resources relating to the IoT part of the 0xAthena 
 - Code samples: (codeimg)[https://codeimg.io/]
 - Coding and Flashing the Software (Arduino IDE v2)[https://docs.arduino.cc/software/ide-v2]
 
+## Code Folders
+- i2c display print text
+- i2c bmp280 read data and write to serial
+- serial echo program
+- read bmp280, task -> print data on i2c screen
+- connect to wifi
+- read bmp280, task -> post data to server over wifi
+
 ## Structure of the Workshop
 
 - Arduino IDE v2
