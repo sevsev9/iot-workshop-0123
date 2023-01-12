@@ -49,3 +49,13 @@ This repository contains the resources relating to the IoT part of the 0xAthena 
     - IF WE HAVE THE TIME:
         - Connect to a WiFi
         - Spawn a task that posts the data to a server in the network
+
+
+# Resources
+
+## Development Environment
+
+Paste the following into "File > Preferences > Settings TAB > Additional boards manager URLs: ":
+
+`https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json, http://arduino.esp8266.com/stable/package_esp8266com_index.json`
+
