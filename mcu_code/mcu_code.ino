@@ -77,6 +77,7 @@ void setup() {
     display.display();
     while (1) delay(100);
   }
+  display.display();
 
   /* Default settings from datasheet. */
   bmp.setSampling(Adafruit_BMP280::MODE_NORMAL,     /* Operating Mode. */
